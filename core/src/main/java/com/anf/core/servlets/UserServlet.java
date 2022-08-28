@@ -41,6 +41,6 @@ public class UserServlet extends SlingSafeMethodsServlet {
     @Override
     protected void doGet(final SlingHttpServletRequest req,
             final SlingHttpServletResponse resp) throws ServletException, IOException {
-        // Make use of ContentService to write the business logic
+        
     }
 }
